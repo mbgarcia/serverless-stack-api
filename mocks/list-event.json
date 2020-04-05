@@ -1,0 +1,7 @@
+{
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "COGNITO-USER-FOR-MOCK"
+    }
+  }
+}
