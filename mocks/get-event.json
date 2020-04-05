@@ -1,0 +1,10 @@
+{
+    "pathParameters": {
+      "id": "0a78fcb0-7758-11ea-a257-6183616a8bce"
+    },
+    "requestContext": {
+      "identity": {
+        "cognitoIdentityId": "COGNITO-USER-FOR-MOCK"
+      }
+    }
+  }
